@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(159, 164, 14);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: block;
+
+}
+
+nav {
+    display: inline;
+    width: 100%;
+
+}
+
+
+li{
+    float: right;
+}
+
+div {
+    background-color: rgb(61, 193, 120);
+    width: bb;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    display: block;
+    image-orientation: from-image;
+    font-stretch: normal;
+}
